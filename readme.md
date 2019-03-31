@@ -1,6 +1,9 @@
 <img src="https://www.wpbeaverbuilder.com/wp-content/uploads/2014/09/beaver-builder-logo1.png"></p>
 
-<img src="https://img.shields.io/wordpress/plugin/tested/beaver-builder-lite-version.svg"> <img src="https://img.shields.io/wordpress/plugin/stars/beaver-builder-lite-version.svg"> <img src="https://img.shields.io/wordpress/plugin/dt/beaver-builder-lite-version.svg"> <img src="https://img.shields.io/wordpress/plugin/v/beaver-builder-lite-version.svg">
+<a href="https://en-gb.wordpress.org/plugins/beaver-builder-lite-version/"><img src="https://img.shields.io/wordpress/plugin/tested/beaver-builder-lite-version.svg"></a> 
+<a href="https://en-gb.wordpress.org/plugins/beaver-builder-lite-version/"><img src="https://img.shields.io/wordpress/plugin/stars/beaver-builder-lite-version.svg"></a> 
+<a href="https://en-gb.wordpress.org/plugins/beaver-builder-lite-version/"><img src="https://img.shields.io/wordpress/plugin/dt/beaver-builder-lite-version.svg"></a> 
+<a href="https://en-gb.wordpress.org/plugins/beaver-builder-lite-version/"><img src="https://img.shields.io/wordpress/plugin/v/beaver-builder-lite-version.svg"></a>
 
 The best drag and drop WordPress Page Builder. Easily build beautiful home pages, professional landing pages, and more with Beaver Builder.
 
