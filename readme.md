@@ -1,4 +1,4 @@
-<img src="https://s14308.pcdn.co/wp-content/uploads/2015/01/bb-logo-2x.png"></p>
+<img src="https://www.wpbeaverbuilder.com/wp-content/uploads/2014/09/beaver-builder-logo1.png"></p>
 
 <img src="https://img.shields.io/wordpress/plugin/tested/beaver-builder-lite-version.svg"> <img src="https://img.shields.io/wordpress/plugin/stars/beaver-builder-lite-version.svg"> <img src="https://img.shields.io/wordpress/plugin/dt/beaver-builder-lite-version.svg"> <img src="https://img.shields.io/wordpress/plugin/v/beaver-builder-lite-version.svg">
 
